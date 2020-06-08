@@ -4,19 +4,19 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 11
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 12
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 8
     },
     {
       "id": 4,
@@ -26,7 +26,7 @@
     },
     {
       "id": 5,
-      "name": "Rex",
+      "name": "Rexs",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
       "likes": 1
     },
@@ -46,7 +46,145 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 2
+    },
+    {
+      "name": "Jessie(T2)",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/0/07/1520C24D-730D-48EA-BB35-DE8C41C82150.png/revision/latest/scale-to-width-down/304?cb=20181206151345",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Bullseye(T2)",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/a/ac/B5A153AC-5608-42CA-887A-23AFDB8AF5B7.png/revision/latest/scale-to-width-down/310?cb=20181206152234",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Mrs. Potato Head",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/a/a7/BEST_MRS.POTATO_HEAD_EVER.png/revision/latest?cb=20191020180452",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Bucket o' Soldiers",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/8/8d/D7CF06AE-86C4-489B-8232-6A1565E689AC.jpeg/revision/latest/scale-to-width-down/310?cb=20181207151858",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Billy, Goat and Gruff",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/f/f8/Billy_Goat_and_Gruff.png/revision/latest/scale-to-width-down/310?cb=20200420185433",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Pink Teddy Bear",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/5/52/Pink_TeddyBear.jpg/revision/latest?cb=20200418210510",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "Etch A Sketch",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/4/4e/Etch_A_Sketch.png/revision/latest/scale-to-width-down/310?cb=20200102162556",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "Hockey Puck",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/b/b0/Hockey_Puck_1.png/revision/latest/scale-to-width-down/310?cb=20200420002119",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "Lenny",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/d/dd/Id_2784_lenny-.png/revision/latest?cb=20200420004820",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "name": "Little Red Car(T2)",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/e/e1/Little_red_car.png/revision/latest?cb=20120314141559",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "name": "Mike",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/4/4a/Aav6p.jpg/revision/latest?cb=20111206023909",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "name": "Barbie(T2)",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/1/10/B4F9183C-A172-45FE-92D4-7226C7C96AAE.png/revision/latest/scale-to-width-down/230?cb=20181201163743",
+      "likes": 0,
+      "id": 20
+    },
+    {
+      "name": "Shark",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/6/6b/Shark_transparent.png/revision/latest/scale-to-width-down/310?cb=20200419214340",
+      "likes": 0,
+      "id": 21
+    },
+    {
+      "name": "Mr. Spell",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/0/0a/Mr_Spell.png/revision/latest/scale-to-width-down/310?cb=20200419213222",
+      "likes": 0,
+      "id": 22
+    },
+    {
+      "name": "RC",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/c/cd/RC_png.png/revision/latest/scale-to-width-down/310?cb=20200420000434",
+      "likes": 0,
+      "id": 23
+    },
+    {
+      "name": "Robot",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/2/2b/Robot1.png/revision/latest?cb=20200419234117",
+      "likes": 0,
+      "id": 24
+    },
+    {
+      "name": "Rocky Gibraltar",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/e/e2/RockyGibraltar-preview.png/revision/latest?cb=20200420013156",
+      "likes": 0,
+      "id": 25
+    },
+    {
+      "name": "Roly Poly Clown",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/7/78/Image.jpg/revision/latest/scale-to-width-down/310?cb=20200419231118",
+      "likes": 0,
+      "id": 26
+    },
+    {
+      "name": "Tikes",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/2/25/Tikes.png/revision/latest/scale-to-width-down/310?cb=20200419232702",
+      "likes": 0,
+      "id": 27
+    },
+    {
+      "name": "Troll",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/1/13/Troll_Doll.png/revision/latest/scale-to-width-down/310?cb=20200419212025",
+      "likes": 2,
+      "id": 28
+    },
+    {
+      "name": "Troikas",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/6/62/Troikas_.png/revision/latest/scale-to-width-down/310?cb=20200130233439",
+      "likes": 0,
+      "id": 29
+    },
+    {
+      "name": "Snake",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/5/5a/Snake.png/revision/latest/scale-to-width-down/310?cb=20190802163631",
+      "likes": 0,
+      "id": 30
+    },
+    {
+      "name": "Barrel of Monkeys",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/4/41/Monkeys.jpg/revision/latest?cb=20071101172302",
+      "likes": 0,
+      "id": 31
     }
   ]
 }
