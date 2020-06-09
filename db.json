@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 12
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 3,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "David",
+      "image": "https://kidlycatalogue.blob.core.windows.net/products/8614/product-images/neutral-1/plan-toys-bear-uk-neutral-500x500_02.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "David",
+      "image": "https://kidlycatalogue.blob.core.windows.net/products/8614/product-images/neutral-1/plan-toys-bear-uk-neutral-500x500_02.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "David",
+      "image": "https://kidlycatalogue.blob.core.windows.net/products/8614/product-images/neutral-1/plan-toys-bear-uk-neutral-500x500_02.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Sonic",
+      "image": "https://cdn11.bigcommerce.com/s-b78xj/images/stencil/1280x1280/products/4981/21282/STL145726__35413.1574805019.jpg?c=2&imbypass=on",
+      "likes": 0,
+      "id": 12
     }
   ]
 }
